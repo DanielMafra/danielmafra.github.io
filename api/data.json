@@ -5,10 +5,20 @@
     "title": "RDelivery",
     "shortDescription": "Projeto com temática para aplicação web de restaurante / delivery desenvolvido utilizando ReactJS.",
     "gif": "/assets/projects/rdelivery.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 1",
+    "longDescription": [
+      "Nesse projeto, desenvolvi toda a lógica de requisição dos produtos via API, para trazer mais realismo a aplicação.",
+      "Como o projeto possui diversos componentes, como a listagem de produtos, seleção, carrinho de compras e checkout, optei por utilizar contextAPI para fazer o controle dos estados.",
+      "Na parte do checkout, implementei algumas funcionalidades mais dinâmicas, como por exemplo, uma requisição automática de endereço ao preencher um CEP válido, obtendo os dados de uma API sem ser necessário que o usuário clique em algum botão."
+    ],
     "repo": "https://github.com/DanielMafra/RDelivery-frontend-ReactJS",
     "prod": "https://danielmafra.github.io/rdelivery/",
-    "techs": "ARRAY TECHS 1"
+    "techs": [
+      "react",
+      "react-router-dom",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 2,
@@ -16,10 +26,18 @@
     "title": "HealthBot",
     "shortDescription": "Projeto criado utilizando Javascript com a finalidade de simular um bot que faz cálculo de IMC, peso ideal e consumo calórico diário.",
     "gif": "/assets/projects/healthbot.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Uma das partes que mais gosto em programação é as infinitas possibilidades em automatizar processos, mais especificamente quando se trata de chatbots.",
+      "Para colocar em prática meus conhecimentos com Javascript, resolvi criar um simples bot que faz cálculos de IMC, peso ideal e consumo calórico diário.",
+      "Procurei deixar o pedido de informações o mais humanizado possível e validar as entradas do usuário, para evitar ao máximo erros de lógica na hora de estar realizando os cálculos."
+    ],
     "repo": "https://github.com/DanielMafra/HealthBot-Javascript",
     "prod": "https://danielmafra.github.io/healthbot/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 3,
@@ -27,10 +45,17 @@
     "title": "Lista de Tarefas",
     "shortDescription": "Aplicativo web de to do list desenvolvido com Javascript e que armazena os dados do usuário no localStorage.",
     "gif": "/assets/projects/todolist.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Bom, todo desenvolvedor possui em seu portfólio uma aplicação de lista de tarefas, isso é fato.",
+      "Utilizando como referência um layout do Frontend Mentor, desenvolvi essa aplicação onde é possível cadastrar e filtrar tarefas, além de persistir os dados no browser através do localStorage (salvar os dados localmente)."
+    ],
     "repo": "https://github.com/DanielMafra/ToDoList-Javascript",
     "prod": "https://danielmafra.github.io/todolist/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 4,
@@ -38,10 +63,19 @@
     "title": "REST Countries API",
     "shortDescription": "Projeto desenvolvido a partir do design e briefing de um desafio do Frontend Mentor, utilizando ReactJS.",
     "gif": "/assets/projects/restcountries.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Utilizando o layout disponibilizado pelo Frontend Mentor e o briefing, codei o projeto seguindo as seguintes especificações:",
+      "Listar todos os países da API na página inicial; Poder pesquisar um país através de um campo de pesquisa; Filtrar países por região; Obter mais informações de um país ao clicar nele; Alterar o esquema de cores entre modo claro e escuro."
+    ],
     "repo": "https://github.com/DanielMafra/rest-countries-api-with-color-theme-switcher",
     "prod": "https://danielmafra.github.io/rest-countries-api-with-color-theme-switcher/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "react",
+      "react-router-dom",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 5,
@@ -49,10 +83,18 @@
     "title": "Job Listings With Filtering",
     "shortDescription": "Projeto desenvolvido a partir do design e briefing de um desafio do Frontend Mentor, utilizando ReactJS.",
     "gif": "/assets/projects/joblistings.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Utilizando o layout disponibilizado pelo Frontend Mentor e o briefing, codei o projeto seguindo as seguintes especificações:",
+      "Visualização ideal para desktop e mobile, com adaptação do layout para diferentes tamanhos de tela; Incluir estados de foco (hover) para todos os elementos interativos; Ativar um filtro na lista de empregos assim que o usuário clicar em uma tag das tecnologias."
+    ],
     "repo": "https://github.com/DanielMafra/job-listings-with-filtering",
     "prod": "https://danielmafra.github.io/job-listings-with-filtering/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "react",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 6,
@@ -60,10 +102,18 @@
     "title": "Tip Calculator App",
     "shortDescription": "Projeto desenvolvido a partir do design e briefing de um desafio do Frontend Mentor, utilizando ReactJS.",
     "gif": "/assets/projects/tipcalculator.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Utilizando o layout disponibilizado pelo Frontend Mentor e o briefing, codei o projeto seguindo as seguintes especificações:",
+      "Layout responsivo; Estados de foco (hover) para os elementos interativos; Calcular a gorjeta correta e o custo total da conta por pessoa."
+    ],
     "repo": "https://github.com/DanielMafra/tip-calculator-app",
     "prod": "https://danielmafra.github.io/tip-calculator-app/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "react",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 7,
@@ -71,10 +121,18 @@
     "title": "Time Tracking Dashboard",
     "shortDescription": "Projeto desenvolvido a partir do design e briefing de um desafio do Frontend Mentor, utilizando ReactJS.",
     "gif": "/assets/projects/timedashboard.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Utilizando o layout disponibilizado pelo Frontend Mentor e o briefing, codei o projeto seguindo as seguintes especificações:",
+      "Layout responsivo; Estados de foco (hover) para os elementos interativos; Alternar entre a visualização de estatísticas diárias, semanais e mensais."
+    ],
     "repo": "https://github.com/DanielMafra/time-tracking-dashboard",
     "prod": "https://danielmafra.github.io/time-tracking-dashboard/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "react",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 8,
@@ -82,10 +140,19 @@
     "title": "SocialDogs",
     "shortDescription": "Projeto desenvolvido durante o curso de front-end da Origamid, utilizando ReactJS.",
     "gif": "/assets/projects/socialdogs.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Este projeto eu desenvolvi durante as aulas de ReactJS do curso da Origamid, criando uma aplicação completa iniciando do zero.",
+      "A aplicação consome dados de uma API, onde é possível criar uma conta, fazer login com autenticação JWT, redefinir senha, realizar comentários em fotos, postar fotos, excluir, além de outras funcionalidades que podem ser conferidas e testadas no live preview do projeto."
+    ],
     "repo": "https://github.com/DanielMafra/SocialDogs-frontend-ReactJS",
     "prod": "https://danielmafra.github.io/socialdogs/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "react",
+      "react-router-dom",
+      "javascript",
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 9,
@@ -93,10 +160,16 @@
     "title": "Flaves",
     "shortDescription": "Landing Page responsiva desenvolvida com HTML e CSS, utilizando um layout do Frontend Mentor como referência.",
     "gif": "/assets/projects/flaves.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Utilizando um layout disponibilizado pelo Frontend Mentor, fiz algumas adaptações e desenvolvi do zero essa landing page.",
+      "Nessa landing page, utilizei apenas HTML e CSS para desenvolver."
+    ],
     "repo": "https://github.com/DanielMafra/Flaves-LandingPage",
     "prod": "https://danielmafra.github.io/flaves/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "html5",
+      "css3"
+    ]
   },
   {
     "id": 10,
@@ -104,9 +177,14 @@
     "title": "Meus Veículos",
     "shortDescription": "Aplicativo web desenvolvido utilizando Javascript e que consome uma API para obter valores de veículos de acordo com a tabela FIPE.",
     "gif": "/assets/projects/myvehicles.png",
-    "longDescription": "ARRAY COM DESCRIÇÃO LONGA 2",
+    "longDescription": [
+      "Meu foco ao criar esse projeto não foi me atentar na criação da interface, inclusive optei por fazer ela o mais simples possível.",
+      "Meu foco foi criar as funcionalidades utilizando Javascript, onde a aplicação consome uma API que retorna dados da tabela FIPE, mostrando o preço do veículo através de uma filtragem."
+    ],
     "repo": "https://github.com/DanielMafra/MyVehicles-ConsultingFIPE-API",
     "prod": "https://danielmafra.github.io/myvehicles/",
-    "techs": "ARRAY TECHS 2"
+    "techs": [
+      "javascript"
+    ]
   }
 ]
