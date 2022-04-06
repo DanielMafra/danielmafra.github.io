@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xarerp/static/css/main.738d7387.css",
+    "main.js": "/xarerp/static/js/main.cc52a58e.js",
+    "static/js/787.6f51140a.chunk.js": "/xarerp/static/js/787.6f51140a.chunk.js",
+    "index.html": "/xarerp/index.html",
+    "main.738d7387.css.map": "/xarerp/static/css/main.738d7387.css.map",
+    "main.cc52a58e.js.map": "/xarerp/static/js/main.cc52a58e.js.map",
+    "787.6f51140a.chunk.js.map": "/xarerp/static/js/787.6f51140a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.738d7387.css",
+    "static/js/main.cc52a58e.js"
+  ]
+}
